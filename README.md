@@ -8,6 +8,8 @@ I draw, write, read, and play music in my free time. I also have an abnormal fas
   <img src="https://raw.githubusercontent.com/marissa-wang/marissa-wang/refs/heads/main/neuronrat.png" width="500"/>
 </p>
 
+<sub><em>(art by yours truly)</em></sub>
+
 
 <!--
 **marissa-wang/marissa-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
