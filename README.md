@@ -9,7 +9,7 @@ I draw, write, read, and play music in my free time. I also have an abnormal fas
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marissa-wang/marissa-wang/refs/heads/main/neuronrat.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/marissa-wang/marissa-wang/refs/heads/main/neuronrat.png" width="500"/>
 </p>
 
 <p align="center">
