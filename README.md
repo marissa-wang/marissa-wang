@@ -2,8 +2,7 @@
 
 Hi, I'm a Cognitive Sciences major at UC Irvine. Admittedly new to coding (somewhat) and haven't done much with it yet, but I'm getting there.
 
-I draw, write, read, and play music in my free time.\n
-I have an abnormal fascination for animals, psychological matters, and Russian literature—anything that involves analysis and the intertwining of heart and brain, I tend to enjoy.
+I draw, write, read, and play music in my free time. I also have an abnormal fascination and affection for animals, psychological matters, and Russian literature. Anything that involves analysis and the intertwining of heart and brain, I tend to enjoy.
 
 <!--
 **marissa-wang/marissa-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
